@@ -1,0 +1,26 @@
+~~~USAGE~~~
+
+./vacuum <name_file>
+
+~~~PROGRAM INFO~~~
+
+Get the position of where the mission of the automatic vacuum cleaner ends.
+
+TYPE OF ACTIONS:
+
+D: rotate 90° on right
+
+G: rotate 90° on left
+
+A: move forward
+
+EXAMPLE :
+
+./vacuum examples_txt/file.txt
+File succesfully open!
+10 10
+5 5 N
+DADADADAA
+
+Vacuum robot finish is operation perfectly!
+It's on the position: 5 6 N
